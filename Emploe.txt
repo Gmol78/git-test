@@ -1,1 +1,3 @@
 ﻿class Emploe
+surname:
+profision:
